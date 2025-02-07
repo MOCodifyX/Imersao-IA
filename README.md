@@ -1,4 +1,4 @@
-# Imersão-IA
+# Imersão-IA - Readme em Edição sujeito a alterações!
 
 ## Dia 01:Engenharia de Prompt e Ferramentas de IA
 ## Dia 02:Projetos com Ferramentas de IA
