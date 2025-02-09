@@ -1,8 +1,8 @@
 # Imersão-IA - Readme em Edição sujeito a alterações!
 
-## Dia 01:Engenharia de Prompt e Ferramentas de IA
-## Dia 02:Impactos e preconceitos de GEN AI
-## Dia 03:
+## Dia 01: Engenharia de Prompt e Ferramentas de IA
+## Dia 02: Impactos e preconceitos de GEN AI
+## Dia 03: Live de encerramento
 
 # Modelos de IA - PESQUISA E CONVERSAÇÃO
 
